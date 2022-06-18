@@ -108,5 +108,8 @@ Although traffic in Taiwan is already well-developed, walking from stations to h
 <br/>
 
 ##  Contributors
-| YiCheng Liao | YuYi Chuang | YuYi Chu | PinYu Li |
-| :-----|:-----|:-----|:-----|
+|Yi-Cheng Liao |https://github.com/yeeecheng| 
+| :-----|:-----|
+|Yu-Yi Chuang | https://github.com/Sunny1928|
+|Yu-Yi Chu | https://github.com/Yui-Arthur|
+|Pin-Yu Li |https://github.com/Pinponyu|
