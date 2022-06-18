@@ -1,4 +1,4 @@
-# 2022-SafePlace-SolutionChallenge
+# 2022_JAVA_FinalProject
 
 ## About
 ### Motivation
